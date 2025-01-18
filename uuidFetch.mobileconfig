@@ -10,13 +10,13 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.rushbox.udidfetcher</string> <!-- 需要手动填写 -->
+            <string>com.rushbox.udidfetcher.deviceinfo</string>
             <key>PayloadUUID</key>
-            <string>0f8f04be-0e44-452d-afb9-0dcc0f70d39b</string> <!-- 需要手动填写 -->
+            <string>0f8f04be-0e44-452d-afb9-0dcc0f70d39b</string>
             <key>PayloadDescription</key>
-            <string>Your Device UDID: %(UDID)s</string> <!-- 自动填充 UDID -->
+            <string>Your Device UDID: %(UDID)s</string>
             <key>PayloadDisplayName</key>
-            <string>Fetch Device UDID</string> <!-- 可手动修改 -->
+            <string>Fetch Device UDID</string>
         </dict>
     </array>
     <key>PayloadType</key>
@@ -24,12 +24,12 @@
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadIdentifier</key>
-    <string>com.example.udidfetcher</string> <!-- 需要手动填写 -->
+    <string>com.rushbox.udidfetcher</string>
     <key>PayloadUUID</key>
-    <string>0f8f04be-0e44-452d-afb9-0dcc0f70d39b</string> <!-- 需要手动填写 -->
+    <string>0f8f04be-0e44-452d-afb9-0dcc0f70d39b</string>
     <key>PayloadDescription</key>
-    <string>Install this profile to retrieve your device's UDID.</string> <!-- 可手动修改 -->
+    <string>Install this profile to retrieve your device's UDID.</string>
     <key>PayloadDisplayName</key>
-    <string>rushbox Fetch Device UDID</string> <!-- 可手动修改 -->
+    <string>rushbox Fetch Device UDID</string>
 </dict>
 </plist>
