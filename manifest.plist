@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.lumie.app2</string> <!-- 修改为你的 Bundle ID -->
                 <key>bundle-version</key>
-                <string>0.9.0</string> <!-- 修改为你的版本号 -->
+                <string>0.9.1</string> <!-- 修改为你的版本号 -->
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
